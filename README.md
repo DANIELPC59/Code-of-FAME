@@ -13,8 +13,6 @@ Reference implementation for **FAME: Few-Shot Adaptive Perturbation Generation f
 - `WF_Model/`: website-fingerprinting classifier models and training/evaluation scripts.
 - `Defence_Method/FAME/`: FAME feature extractor, perturbation generator, and few-shot evaluation code.
 - `Defence_Method/AWA/`, `Defence_Method/Alert/`, `Defence_Method/DFD/`, `Defence_Method/WalkieTalkie/`, `Defence_Method/Front_Base_Burst/`: baseline defense implementations.
-- `P4_Switch/`: deployment prototype for burst-sequence-based WF defense on a P4 programmable switch.
-- `PluggableTransport/`: deployment prototype for burst-sequence-based WF defense as a pluggable transport.
 - `Tool_Code/`: shared metrics and helper functions.
 
 ## Data And Model Paths
